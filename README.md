@@ -16,4 +16,4 @@ SplashScreen Library:
 * Day/Night mode implementation.
 * Improved ui design
 ## Challenges Encountered
-* Getting a good and proper design was a huge challenge. After a reasonable search for design inspirations, had to make do with some random ideas that flew in on the go. This definitely would be improved upon.
+* Getting a good and proper design was a huge challenge. After a reasonable but unsuccessful search for good design inspirations, had to make do with some random ideas that flew in on the go. This definitely would be improved upon.
