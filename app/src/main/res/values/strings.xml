@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Meet Brio</string>
+
+    <string name="intro">Hello, I\'m Bright</string>
+    <string name="my_profession">Mobile App Developer</string>
+    <string name="brief_about_me">An enthusiastic Software Engineer, specialized in Mobile Development, with a passion for building scalable Mobile Apps.</string>
+    <string name="about_me">About me</string>
+    <string name="detailed_about_me">I am skilled in native mobile app development, with 1+ year of experience in designing, developing and maintaining Android apps. I have been using Java in building scalable and delightful apps, and also do have a hang on Kotlin.\nMy passion for building apps drives me into a recursive loop of learning to become a better version of myself, and to meaningfully contribute to the actualization of team goals.</string>
+    <string name="profession">Mobile Developer</string>
+    <string name="current_role">I am currently engaged as a Mobile developer at the HNG9 Internship with a strong dedication and commitment to work</string>
+    <string name="skills">Skills</string>
+    <string name="google_developer_training">Google Developer Training</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="android_developer_course">Android Developer Course</string>
+    <string name="java_programming">Java Programming</string>
+    <string name="java_developer">Java Developer</string>
+    <string name="content_to_be_updated">Content to be updated</string>
+    <string name="issuing_date">Issuing Date:</string>
+    <string name="issuing_authority">Issuing Authority:</string>
+    <string name="to_be_updated_soon">To be updated soon</string>
+    <string name="education">Education</string>
+    <string name="university_name">Federal University of Technology, Owerri</string>
+    <string name="university_location">Imo, Nigeria</string>
+    <string name="degree_description">The degree program offers a modern and technology-integrated curriculum, ensuring an interdisciplinary learning environment where students are exposed to a multitude of related disciplines broadening their skills needed for a competitive market. The course units evolve from fundamentals through more advanced topics, whereby the students will have an adequate preparation in engaging in real-world projects during their industrial training. Individual, group and mini-projects throughout the course will allow the students to explore various horizons in th IT arena</string>
+    <string name="department"><![CDATA[Department of Electrical & Electronic Engineering]]></string>
+    <string name="degree"><![CDATA[B.Eng in Electronic & Computer Engineering]]></string>
+    <string name="professional_experience">Professional Experience</string>
+    <string name="job_title">Mobile Developer at HNG Internship</string>
+    <string name="job_role">Collaborating with a team of developers to build scalable mobile products</string>
+    <string name="technologies"><![CDATA[Tools & Technologies:]]></string>
+    <string name="zuri_role">Mobile Developer at Zuri Team</string>
+    <string name="welcome">Welcome</string>
+    <string name="resume">Resume</string>
+    <string name="profile">Profile</string>
+    <string name="certifications">Certifications</string>
+    <string name="services">Services</string>
+    <string name="projects">Projects</string>
+
+</resources>

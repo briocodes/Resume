@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meet Brio</string>
+
+    <string name="intro">Bonjour, je suis Bright</string>
+    <string name="my_profession">Développeur d\'applications mobiles</string>
+    <string name="brief_about_me">Un ingénieur logiciel enthousiaste, spécialisé dans le développement mobile, passionné par la création d\'applications mobiles évolutives.</string>
+    <string name="about_me">À propos de moi</string>
+    <string name="detailed_about_me">Je suis compétent dans le développement d\'applications mobiles natives, avec un an d\'expérience dans la conception, le développement et la maintenance d\'applications Android. J\'utilise Java pour créer des applications évolutives et agréables, et j\'ai également un penchant pour Kotlin.\nMa passion pour la création d\'applications me pousse dans une boucle récursive d\'apprentissage pour devenir une meilleure version de moi-même et pour contribuer de manière significative à l\'actualisation des objectifs de l\'équipe.</string>
+    <string name="profession">Développeur mobile</string>
+    <string name="current_role">Je suis actuellement engagé en tant que développeur mobile au stage HNG9 avec un fort dévouement et un engagement à travailler</string>
+    <string name="skills">Compétences</string>
+    <string name="google_developer_training">Formation des développeurs Google</string>
+    <string name="android_developer">Développeur Android</string>
+    <string name="android_developer_course">Cours de développeur Android</string>
+    <string name="java_programming">Programmation Java</string>
+    <string name="java_developer">développeur Java</string>
+    <string name="content_to_be_updated">Contenu à mettre à jour</string>
+    <string name="issuing_date">Date d\'émission:</string>
+    <string name="issuing_authority">Autorité de délivrance:</string>
+    <string name="to_be_updated_soon">A mettre à jour prochainement</string>
+    <string name="education">Éducation</string>
+    <string name="university_name">Université fédérale de technologie, Owerri</string>
+    <string name="university_location">Imo, Nigeria</string>
+    <string name="degree_description">Le programme d\'études offre un programme moderne et intégré à la technologie, garantissant un environnement d\'apprentissage interdisciplinaire où les étudiants sont exposés à une multitude de disciplines connexes élargissant leurs compétences nécessaires pour un marché concurrentiel. Les unités de cours évoluent des fondamentaux à des sujets plus avancés, grâce auxquels les étudiants auront une préparation adéquate pour s\'engager dans des projets réels au cours de leur formation industrielle. Des projets individuels, de groupe et des mini-projets tout au long du cours permettront aux étudiants d\'explorer différents horizons dans le domaine informatique.</string>
+    <string name="department"><![CDATA[Département de génie électrique et électronique]]></string>
+    <string name="degree"><![CDATA[B.Eng en génie électronique et informatique]]></string>
+    <string name="professional_experience">Expérience professionnelle</string>
+    <string name="job_title">Développeur mobile chez HNG Internship</string>
+    <string name="job_role">Collaborer avec une équipe de développeurs pour créer des produits mobiles évolutifs</string>
+    <string name="technologies"><![CDATA[Outils et technologies:]]></string>
+    <string name="zuri_role">Développeur mobile chez Zuri Team</string>
+    <string name="welcome">Bienvenu</string>
+    <string name="resume">CV</string>
+    <string name="profile">Profil</string>
+    <string name="certifications">Certificats</string>
+    <string name="services">Les Service</string>
+    <string name="projects">Projets</string>
+</resources>
