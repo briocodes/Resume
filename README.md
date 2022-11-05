@@ -8,7 +8,7 @@ The second activity contains an options menu with which the user can be able to 
 The app is localized to three languages including English, French and Spanish. Contents are automatically displayed in either of these languages based on the preset language on the device
 # Libraries Used
 SplashScreen Library: This library provides the compatibility APIs for SplashScreen and helper method to enable a splashscreen on devices prior Android 12
-The use of this library makes it possible to display a splashscreen each time the app is launched.
+The use of this library makes it possible to display a beautiful splashscreen each time the app is launched.
 # App Demo Link
 <a href="https://appetize.io/app/jr5smhj23xb6yroqtmqnrdf3k4?device=pixel4&osVersion=11.0&scale=75">App Demo Link on Appetize</a>
 # In-The-Works Features
