@@ -10,7 +10,7 @@ The app is localized to three languages including English, French and Spanish. C
 SplashScreen Library: This library provides the compatibility APIs for SplashScreen and helper method to enable a splashscreen on devices prior Android 12.
 The use of this library makes it possible to display a beautiful splashscreen each time the app is launched.
 # App Demo Link
-<a href="https://appetize.io/app/jr5smhj23xb6yroqtmqnrdf3k4?device=pixel4&osVersion=11.0&scale=75">App Demo Link on Appetize</a>
+<a href="https://appetize.io/app/jr5smhj23xb6yroqtmqnrdf3k4?device=pixel4&osVersion=11.0&scale=75">Demo App on Appetize.io</a>
 # In-The-Works Features
 Day/Night mode implementation.
 improved ui design
