@@ -11,7 +11,10 @@ SplashScreen Library:
 * This library provides the compatibility APIs for SplashScreen and helper method to enable a splashscreen on devices prior Android 12.
 * The use of this library makes it possible to display a beautiful splashscreen each time the app is launched.
 ## App Demo Link
-<a href="https://appetize.io/app/jr5smhj23xb6yroqtmqnrdf3k4?device=pixel4&osVersion=11.0&scale=75">Demo App on Appetize.io</a>
+* Run 
+<a href="https://appetize.io/app/jr5smhj23xb6yroqtmqnrdf3k4?device=pixel4&osVersion=11.0&scale=75">App Demo on Appetize.io</a>
+* Download
+<a href="https://drive.google.com/file/d/1FI3r2eFmcG3KSPBtmOiKTW6ZP2qIq_lt/view?usp=share_link">Apk File here</a>
 ## In-The-Works Features
 * Day/Night mode implementation.
 * Improved ui design
