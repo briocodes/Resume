@@ -2,10 +2,10 @@
 This is a simple portfolio app that gives basic details about me and what I do.
 ## Description
 * The app is built in the Kotlin programming language, and all the views are designed in XML.
-* It consists of six activities with ease of navigation. 
-* The first activity contains three social buttons which navigates to my profile on different social media platforms, and also an about button, which when clicked, takes the user to a second activity which contains my developer profile.
-* The second activity contains an options menu with which the user can be able to navigate to the remaining four activities.
-* The app is localized to three languages including English, French and Spanish. Contents are automatically displayed in either of these languages based on the preset language on the device.
+* It consists of six screens with ease of navigation (Welcome, Profile, Resume, Certifications, Portfolio, & Services).
+* The Welcome screen contains three social buttons which navigates to my profile on different social media platforms, and also an about button, which when clicked, takes the user to a second activity which contains my developer profile.
+* The Profile screen contains an options menu with which the user can be able to navigate to the remaining four activities.
+* The app is localized to three languages including English, French and Spanish. Contents are automatically displayed in either of these languages based on the preset language on the user's device.
 * Interactions within the app are smooth, with a responsive UI
 ## Features 
 * App <a href="https://developer.android.com/guide/topics/resources/localization">Localization</a> to different languages (English, French & Spanish)
